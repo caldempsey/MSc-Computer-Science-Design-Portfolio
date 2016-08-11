@@ -1,0 +1,347 @@
+
+/* ===========================
+   ======= iFrame STYLES      ==
+   =========================== */
+
+
+/* ===========================
+   ======= Reset trick       == 
+   =========================== */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ===========================
+   ======= Styles            ==
+   =========================== */
+
+
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: normal;
+  src: url("Asap-Regular.otf") format('opentype');
+}
+
+h1{
+  font-size: 60px
+
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px
+}
+
+h4 {
+  font-size: 18px
+}
+
+h1, h2, h3, h4 {
+  font-weight: 400;
+  line-height: 1.1;
+  margin-bottom: .8em;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    padding: 3px
+}
+/* ===========================
+   ======= body              ==
+   =========================== */
+
+body {
+  font-family: Asap, Segoe UI, Arial, sans-serif;
+  clear: both;
+  color: ghostwhite;
+  text-align: justify;
+  margin: 0px auto;
+  background-color: rgb(134, 134, 134);
+
+}
+
+/* ===========================
+   ======= Global Content Wrapper    = - Keeps all content centred. Must be at start of every iframe page
+   =========================== */
+
+
+ #globwrapper {
+    margin: 0 auto;
+    height: 700px;
+    padding-top: 10px;
+    width: 1200px;
+}
+
+/* ===========================
+   ====== Script controller
+   =========================== */
+
+.isscript {
+     display: none;
+ }
+
+
+
+
+ /* ===========================
+   ======= Header     ========  
+   =========================== */
+
+
+#iframe_header {
+    float: left;
+    font: bold 34px "Century Schoolbook", Georgia, Times, serif;
+    color: ghostwhite;
+    margin: .2em 0 .4em 0;
+    letter-spacing: -2px;
+    height: 100px;
+    width: 1200px;
+    text-align: center;
+    text-indent: 1px;
+}
+
+
+
+ /*Header text*/
+
+
+#iframe_header_title {
+  float: left;
+  margin-top: 40px;
+  width: 1200px;
+  height: 100%;
+}
+
+
+ /* ===========================
+   ======= Home.html     ========
+   =========================== */
+
+
+/* ===========================
+   ======= Content Wrapper====  
+   =========================== */
+#home_contentwrapper {
+    height: 380px;
+    width: 1200px;
+    float: left;
+    clear: both;
+  }
+
+#home_contentwrapper_images {
+  float: left;
+  width: 447.5px;
+  height: 380px; 
+}
+
+#home_contentwrapper_images img {
+  margin: 0 auto;
+}
+
+#home_contentwrapper_text {
+  float: left;
+  width: 750px;
+  height: 380px;
+}
+
+
+#home_contentwrapper_text_header {
+text-align: center;
+margin: 0 auto;
+border:  groove;
+max-height: 40px;
+max-width: 30%;
+background-color: rgb(182, 0, 49);
+}
+
+
+#home_recentnotification {
+  float: left;
+  width: 447px;
+  height: 20px; 
+  background-color: black;
+}
+
+
+#home_recent {
+  width: 1200px;
+  height: 235px;
+  clear: both;
+  background-color: transparent;
+}
+
+#home_recent_text {
+  width: 1198px;
+  height:10px;
+  clear: both;
+  background-color: black;
+  text-align: center;
+  font-size: 10px;
+}
+
+
+.home_recent_post {
+  width:  33.1%;
+  float: left; 
+  height:  95%;
+  background-color: white;
+  border: black solid 1px;
+}
+
+.home_recent_post img {
+  width:100%; 
+  color: black;
+  height:100%;
+}
+
+#home_recent_text p {
+  width: 1198px;
+  height:10px;
+  clear: both;
+  background-color: black;
+  text-align: center;
+  font-size: 10px;
+}
+
+
+ /* ===========================
+   ======= live.html     ========
+   =========================== */
+
+
+.live_media_content{
+    width: 1200px;
+}
+
+.live_media_container{
+    float: left;
+}
+
+
+
+
+ /* ===========================
+   ======= Tutorial framework  =
+   =========================== */
+
+#tutorial_content {
+    width: 1200px;
+    float: left;
+}
+
+
+#tutorial_contentwrapper {
+    height: 380px;
+    float: left;
+    clear: both;
+  }
+
+
+
+#tutorial_contentwrapper_video {
+  float: left;
+  width: 780px;
+  height: 380px;
+}
+
+#tutorial_contentwrapper_writeup {
+  float: left;
+  width: 417.5px;
+  height: 418px; 
+}
+
+#tutorial_contentwrapper_writeup_padding {
+  padding: 10px;
+  width: 100%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  overflow: auto;
+  height: 100% ;
+}
+
+
+
+ /* ===========================
+   ======= Contact form        =
+   =========================== */
+
+
+
+#contact_contentwrapper {
+    height: 380px;
+    margin-left: 25%;
+    clear: both;
+    text-align: center;
+  }
+
+
+
+#contact_contentwrapper p, form textarea, form input{
+  margin: 0 auto;
+  right: 0;
+  left: 0;
+  overflow: auto;
+}
+
+#contact_contentwrapper form {
+  right: 0;
+  left: 0;
+  background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+  background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+  margin:auto 0;
+  width:550px;
+  height:500px;
+  font-style: italic;
+  line-height: 24px;
+  color: rgb(182, 0, 49);
+  text-decoration: none;
+  -webkit-border-radius: 10px;
+  resize: none; 
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  padding:10px;
+  border: 1px solid #999;
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+#contact_contentwrapper textarea, input {
+resize:none;
+height: 200px;
+width: 90%;
+}
+
+
+#contact_contentwrapper input    {
+display:block;
+border: 1px solid #999;
+height: 25px;
+-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+
+
+/* ===========================
+   =======       =
+   =========================== *//* ===========================
+   =======        =Secondary Website Attributes: Changes for evolution_secondary;
+   =========================== *//* ===========================
+   =======         =
+   =========================== */

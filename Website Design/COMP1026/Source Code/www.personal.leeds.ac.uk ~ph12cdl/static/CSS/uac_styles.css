@@ -1,0 +1,45 @@
+/* ===========================
+   ======= Reset trick       == 
+   =========================== */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/* ===========================
+   ======= Styles            ==
+   =========================== */
+
+
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: normal;
+  src: url("Asap-Regular.otf") format('opentype');
+}
+
+
+ body {
+   clear: both;
+  font-family: Segoe UI, Arial, sans-serif;
+   background-color: #3d3d3d;
+   color: white;
+}
+
+.wrapper{
+	width: 195px;
+  height: 100px;
+  text-align: center;
+  font-family: Asap, Segoe UI, Arial, sans-serif;
+  color: white;
+  padding: 1px;
+  margin-top: 20px;
+}
+
+ .wrapper table {
+  margin-left: auto;
+  height: 10px;
+  margin-right: auto;
+}

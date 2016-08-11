@@ -1,0 +1,280 @@
+
+/* ===========================
+   ======= INDEX STYLES      ==
+   =========================== */
+
+
+/* ===========================
+   ======= Reset trick       == 
+   =========================== */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ===========================
+   ======= Styles            ==
+   =========================== */
+
+
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: normal;
+  src: url("Asap-Regular.otf") format('opentype');
+}
+
+
+/* ===========================
+   ======= Body             == 
+   =========================== */
+
+ 
+
+ body {
+   font-family: Segoe UI, Arial, sans-serif;
+   clear: both;
+   background-image: url('../Media/Images/background.png');
+  }
+
+ /* ===========================
+   ======= Navigation bar ====
+   =========================== */
+
+#navbar_wrapper {
+
+    border-bottom: 1px black solid;
+    height: 64px;
+    min-width: 1348px;
+    background: #333637;
+    clear: both;
+}
+
+#navbar_wrapper_shell {
+    font-family: Asap, Segoe UI, Arial, sans-serif;
+    font-size: 12px;
+    margin: 0px auto;
+    min-width: 960px;
+    text-align: left;
+    color: white;
+    line-height: 64px;
+    position: relative;
+    height: 64px;
+    text-decoration: none;
+    width: 960px;
+}
+
+
+#navbar_wrapper_shell_logo {
+    float: left;
+    margin-right: 16px;
+    height: 64px;
+    min-width: 68px;
+    background-image: url(../Media/Images/logo.png);
+}
+
+#navbar_wrapper_shell_logo:hover {
+    float: left;
+    margin-right: 16px;
+    height: 64px;
+    min-width: 68px;
+    background-image: url(../Media/Images/logo2.png);
+}
+
+#navbar_wrapper_shell_navcontent {
+    float: left;
+    height: 64px;
+    min-width: 600px;
+    margin: auto;
+    text-align: left;
+}
+
+#navbar_wrapper_shell_userauthcontent {
+    float: left;
+    display: block;
+    height: 64px;
+    min-width: 200px;
+    text-align: center;
+    margin: auto;
+    background-color: #3d3d3d;
+}
+
+
+
+
+ /* ===========================
+   ======= Navigation bar Navcontent Elements ====
+   =========================== */
+
+
+.navbar_wrapper_shell_navcontent_elements ul{
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul li{
+  display: inline-block;
+}
+
+
+
+.navbar_wrapper_shell_navcontent_elements ul li:hover {
+  background-color: #3d3d3d;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul li a, a:visited {
+  color: white;
+  text-decoration: none;
+  padding: 40px;
+}
+
+.navbar_wraper_shell_navcontent_elements ul li a, a:hover{
+  color: #099;
+}
+
+
+
+ /* ===========================
+   ======= Submenu ====
+   =========================== */
+
+.navbar_wrapper_shell_navcontent_elements ul li:hover ul {
+  display: block;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul ul {
+  display: none;
+  position: absolute;
+  min-width: 150px;
+  background-color: #3d3d3d;
+  border: 1px solid black;
+  border-top: none;
+  margin-left: -1px;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul ul li {
+  display: block;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul ul a {
+    display: block;
+    color: white;
+    padding: 5px;
+}
+
+
+.navbar_wrapper_shell_navcontent_elements ul ul li a:hover {
+    color: #099;
+}
+
+
+ /* ===========================
+   ======= Sub-sub menu    ====
+   =========================== */
+
+.navbar_wrapper_shell_navcontent_elements ul ul li {
+  position: relative;
+}
+
+
+.navbar_wrapper_shell_navcontent_elements ul ul ul {
+  border-left: none;
+  left: 100%;
+  bottom: 0;
+  margin-left: 0;
+  border-bottom: 0;
+  padding: 0;
+  margin-bottom: -1px;
+  position: absolute;
+  text-align: center;
+  background-color: #3d3d3d;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul ul ul li {
+  min-width: 150px;
+  display: none;
+
+}
+
+.navbar_wrapper_shell_navcontent_elements ul ul li:hover ul li {
+  display: block;
+  border: 1px solid black;
+  border-left: none;
+}
+
+ /* ===========================
+   ======= Navigation bar Userauth Elements ====
+   =========================== */
+
+
+#navbar_wrapper_shell_userauthcontent ul{
+  right: 0;
+  left: 0;
+  background-color: #3d3d3d;
+  border-top: none;
+}
+
+
+.navbar_wrapper_shell_userauthcontent a {
+  display: block;
+  color: white;
+}
+
+/* ===========================
+   =======  Content Wrapper    = - Keeps all content centred..
+   =========================== */
+
+
+ #iframewrapper {
+  padding: 0;
+  margin: 0 auto;
+  height: 768px;
+  width: 100%;
+  color: white;
+}
+
+ #iframewrapper iframe {
+  padding-left: 34px;
+  padding-right: 34px;
+  overflow: visible;
+}
+
+/* ===========================
+   ======= Footer    = =======.
+   =========================== */
+
+
+#footer{
+  min-width: 1348px;
+  background-color: #3d3d3d;
+  bottom: 0;
+  height: 31px;
+  position: relative;
+  margin-bottom: -20px;
+    }
+
+#footer img {
+  float: right;
+  }
+
+#footer p{
+  float: left;
+}
+
+
+ #secondary_iframewrapper {
+  padding: 0;
+  margin: 0 auto;
+  height: 768px;
+  width: 100%;
+  color: white;
+}
+
+#secondary_iframewrapper_contents {
+   padding-left: 34px;
+  padding-right: 34px;
+  margin: 0 auto;
+}

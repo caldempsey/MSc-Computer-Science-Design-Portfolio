@@ -1,0 +1,71 @@
+## <PlayerName>		<SteamURL>	<Rank>		<Powerlevel> ##
+yardhin|steam.com|GE|9530
+mma|steam.com|GE|7000
+saitama|steam.com|GE|5000
+eclypse|steam.com|GE|10000
+exampleuser|steam.com|GE|2000
+NewMonkey|steam.com|GE|100
+player1|steam.com|GE|4000
+Berlin|steam.com|GE|9530
+Worms|steam.com|GE|7000
+I'm not imaginative|steam.com|GE|5000
+Powerplayer|steam.com|GE|10000
+ayyylmao|steam.com|GE|2000
+Overrustle|steam.com|GE|100
+NoTears|steam.com|GE|4000
+yardhin|steam.com|GE|9530
+mma|steam.com|GE|7000
+saitama|steam.com|GE|5000
+eclypse|steam.com|GE|10000
+exampleuser|steam.com|GE|2000
+NewMonkey|steam.com|GE|100
+player1|steam.com|GE|4000
+Berlin|steam.com|GE|9530
+Worms|steam.com|GE|7000
+I'm not imaginative|steam.com|GE|5000
+Powerplayer|steam.com|GE|10000
+ayyylmao|steam.com|GE|2000
+Overrustle|steam.com|GE|100
+NoTears|steam.com|GE|4000
+yardhin|steam.com|GE|9530
+mma|steam.com|GE|7000
+saitama|steam.com|GE|5000
+eclypse|steam.com|GE|10000
+exampleuser|steam.com|GE|2000
+NewMonkey|steam.com|GE|100
+player1|steam.com|GE|4000
+Berlin|steam.com|GE|9530
+Worms|steam.com|GE|7000
+I'm not imaginative|steam.com|GE|5000
+Powerplayer|steam.com|GE|10000
+ayyylmao|steam.com|GE|2000
+Overrustle|steam.com|GE|100
+NoTears|steam.com|GE|4000
+yardhin|steam.com|GE|9530
+mma|steam.com|GE|7000
+saitama|steam.com|GE|5000
+eclypse|steam.com|GE|10000
+exampleuser|steam.com|GE|2000
+NewMonkey|steam.com|GE|100
+player1|steam.com|GE|4000
+Berlin|steam.com|GE|9530
+Worms|steam.com|GE|7000
+I'm not imaginative|steam.com|GE|5000
+Powerplayer|steam.com|GE|10000
+ayyylmao|steam.com|GE|2000
+Overrustle|steam.com|GE|100
+NoTears|steam.com|GE|4000
+yardhin|steam.com|GE|9530
+mma|steam.com|GE|7000
+saitama|steam.com|GE|5000
+eclypse|steam.com|GE|10000
+exampleuser|steam.com|GE|2000
+NewMonkey|steam.com|GE|100
+player1|steam.com|GE|4000
+Berlin|steam.com|GE|9530
+Worms|steam.com|GE|7000
+I'm not imaginative|steam.com|GE|5000
+Powerplayer|steam.com|GE|10000
+ayyylmao|steam.com|GE|2000
+Overrustle|steam.com|GE|100
+NoTears|steam.com|GE|4000

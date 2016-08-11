@@ -1,0 +1,179 @@
+
+/* ===========================
+   ======= INDEX STYLES      ==
+   =========================== */
+
+
+/* ===========================
+   ======= Reset trick       == 
+   =========================== */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* ===========================
+   ======= Styles            ==
+   =========================== */
+
+
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: normal;
+  src: url("Asap-Regular.html") format('opentype');
+}
+
+.center {
+    text-align: center;
+}
+
+/* ===========================
+   ======= Body             == 
+   =========================== */
+
+ 
+
+ body {
+   font-family: Segoe UI, Arial, sans-serif;
+   clear: both;
+   text-align: justify;
+   color: white;
+   background-image: url('../Media/Images/background.html');
+  }
+
+ /* ===========================
+   ======= Navigation bar ====
+   =========================== */
+
+#navbar_wrapper {
+    border-bottom: 1px black solid;
+    height: 64px;
+    min-width: 1348px;
+    background: #333637;
+    clear: both;
+}
+
+#navbar_wrapper_shell {
+    font-family: Asap, Segoe UI, Arial, sans-serif;
+    font-size: 12px;
+    margin: 0px auto;
+    min-width: 960px;
+    text-align: left;
+    color: white;
+    line-height: 64px;
+    position: relative;
+    height: 64px;
+    text-decoration: none;
+    width: 960px;
+}
+
+
+#navbar_wrapper_shell_logo {
+    float: left;
+    margin-right: 16px;
+    height: 64px;
+    min-width: 68px;
+    background-image: url(../Media/Images/logo.html);
+}
+
+#navbar_wrapper_shell_logo:hover {
+    float: left;
+    margin-right: 16px;
+    height: 64px;
+    min-width: 68px;
+    background-image: url(../Media/Images/logo2.html);
+}
+
+#navbar_wrapper_shell_navcontent {
+    float: left;
+    height: 64px;
+    min-width: 600px;
+    margin: auto;
+    text-align: left;
+}
+
+#navbar_wrapper_shell_userauthcontent {
+    float: left;
+    display: block;
+    height: 64px;
+    min-width: 200px;
+    text-align: center;
+    margin: auto;
+    background-color: #3d3d3d;
+}
+
+
+
+
+ /* ===========================
+   ======= Navigation bar Navcontent Elements ====
+   =========================== */
+
+
+.navbar_wrapper_shell_navcontent_elements ul{
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul li{
+  display: inline;
+}
+
+
+
+.navbar_wrapper_shell_navcontent_elements ul li:hover {
+  background-color: #3d3d3d;
+}
+
+.navbar_wrapper_shell_navcontent_elements ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 40px;
+}
+
+/* ===========================
+   =======  Content Wrapper    = - Keeps all content centred..
+   =========================== */
+
+
+#supernicemessage {
+  padding: 10px;
+  margin: 0 auto;
+  height: 100%;
+  width: 70%;
+  color: black;
+  background-image: url(../Media/Images/bg.html);
+  padding-bottom: 40px;
+}
+
+#supernicemessage p {
+  padding: 10px;
+  color: black;
+
+}
+
+/* ===========================
+   ======= Footer    = =======.
+   =========================== */
+
+
+#footer{
+  min-width: 1348px;
+  background-color: #3d3d3d;
+  bottom: 0;
+  height: 31px;
+  position: relative;
+  margin-bottom: -20px;
+    }
+
+#footer img {
+  float: right;
+  }
+
+#footer p{
+  float: left;
+}

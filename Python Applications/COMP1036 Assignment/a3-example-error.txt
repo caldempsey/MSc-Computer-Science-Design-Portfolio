@@ -1,0 +1,6 @@
+AUTHOR(S)	YEAR	TITLE	JOURNAL/CONFERENCE
+Accot;Zhai	2001	Scale effects in steering law tasks	Proc. ACM CHI
+Acredolo	Developmental Changes in the Ability to Coordinate Perspectives of a Large-Scale Space	Developmental Psychology	
+Aginsky;Harris;Rensink;Beusmans	1997	Two strategies for learning a route in a driving simulator	Journal of Environmental Psychology
+Agrawala;Beers;Frohlich;Hanrahan;McDowall;Bolas	1997	The two-user responsive workbench: Support for collaboration through individual views of a shared space	Proc. ACM SIGGRAPH
+Ahmadabadi;Eiji	1996	Cooperation strategy for a group of object lifting robots	Proc. of IROS

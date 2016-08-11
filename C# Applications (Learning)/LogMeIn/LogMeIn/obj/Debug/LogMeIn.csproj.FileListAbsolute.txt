@@ -1,0 +1,6 @@
+C:\Users\mmacheerpuppy\Google Drive\University\LogMeIn\LogMeIn\LogMeIn\bin\Debug\LogMeIn.exe.config
+C:\Users\mmacheerpuppy\Google Drive\University\LogMeIn\LogMeIn\LogMeIn\bin\Debug\LogMeIn.exe
+C:\Users\mmacheerpuppy\Google Drive\University\LogMeIn\LogMeIn\LogMeIn\bin\Debug\LogMeIn.pdb
+C:\Users\mmacheerpuppy\Google Drive\University\LogMeIn\LogMeIn\LogMeIn\obj\Debug\LogMeIn.csprojResolveAssemblyReference.cache
+C:\Users\mmacheerpuppy\Google Drive\University\LogMeIn\LogMeIn\LogMeIn\obj\Debug\LogMeIn.exe
+C:\Users\mmacheerpuppy\Google Drive\University\LogMeIn\LogMeIn\LogMeIn\obj\Debug\LogMeIn.pdb

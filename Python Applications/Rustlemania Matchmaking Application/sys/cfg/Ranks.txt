@@ -1,0 +1,23 @@
+## RANKS.TXT HOSTS THE DATABASE OF RANKS YOU WOULD LIKE TO USE FOR THE RUSTLEMANIA. PUT BEST TO WORST RANKS IN ASCENDING TO DESCENDING ORDER
+## Please use the following format
+## OLDRANK|NEWRANK
+## For example...
+## LEM|Legendary Eagle Master
+## S1|Silver 1
+GE|Global Elite
+SMFC|Supreme
+LEM|Legendary Eagle Master
+LE|Legendary Eagle
+DMG|Distinguished Master Guardian
+MGE|Master Guardian Elite
+MG2|Master Guardian 2
+MG1|Master Guardian 1
+GN4|Gold Nova Master
+GN3|Gold Nova 3
+GN2|Gold Nova 2
+GN1|Gold Nova
+S5|Silver Elite
+S4|Silver 4
+S3|Silver 3
+S2|Silver 2
+S1|Silver 1

@@ -1,0 +1,41 @@
+AUTHOR(S)	YEAR	TITLE	JOURNAL/CONFERENCE
+Accot;Zhai	2001	Scale effects in steering law tasks	Proc. ACM CHI
+Acredolo	1977	Developmental Changes in the Ability to Coordinate Perspectives of a Large-Scale Space	Developmental Psychology
+Aginsky;Harris;Rensink;Beusmans	1997	Two strategies for learning a route in a driving simulator	Journal of Environmental Psychology
+Agrawala;Beers;Frohlich;Hanrahan;McDowall;Bolas	1997	The two-user responsive workbench: Support for collaboration through individual views of a shared space	Proc. ACM SIGGRAPH
+Ahmadabadi;Eiji	1996	Cooperation strategy for a group of object lifting robots	Proc. of IROS
+Ahuja;Webster	2001	Perceived disorientation: An examination of a new measure to assess web design effectiveness	Interacting with Computers
+Albers;Bergman	1995	The audible Web: Auditory enhancements for Mosaic	Proc. ACM CHI
+Aldestein;Ellis	1993	Effect of Head-Slaved Visual Image Roll on Spatial Situation Awareness	Proc. HFES
+Alexander;Wickens	2001	"Cockpit display of traffic information: The effects of traffic load, dimensionality, and vertical profile orientation"	Proc. HFES
+Alfano;Michel	1990	Restricting the field of view: perceptual and performance effects	Perceptual and Motor Skills
+Allen;Ondracek	1995	Age-sensitive cognitive abilities related to children's acquisition of spatial knowledge	Developmental Psychology
+Allen;Siegel;Roninski	1978	The Role of Perceptual Context in Structuring Spatial Knowledge	Journal of Experimental Psychology: Human Learning and Memory
+Allen;Singer	1997	Landmark detection and distance estimation in large scale virtual environments	Proc. HFES
+Amazeen;Turvey	1996	Weight perception and the haptic size-weight illusion are functions of the inertia tensor	Journal of Experimental Psychology: Human Perception and Performance
+Angelaki;Shaikh;Green;Dickman	2004	Neurons compute internal models of the physical laws of motion	Nature
+Anonymous	1993	Technical correspondance - Random Number Generators	Communications of the ACM
+Anonymous	1992	Research Directions in Virtual Environments (NSF Invitational Workshop)	Computer Graphics
+Anonymous	1998	"Exploring sequential data: Commentary on Bowers, Jentsch, Salas, and Braun (1998)"	Human Factors
+Arai;Ota	1996	Let us work together - Task planning of multiple mobile robots	Intelligent Robots and Systems
+Aretz	1991	The Design of Electronic Map Displays	Human Factors
+Arnold;Farrell;Pettifer;West	2002	Performance of a skilled motor task in virtual and real environments	Ergonomics
+Arthur;Booth;Ware	1993	Evaluating 3D Task Performance for Fish Tank Virtual Worlds	ACM Transactions on Information Systems
+Authier;Lortie;Gagnon	1996	Manual handling techniques: Comparing novices and experts	International Journal of Industrial Ergonomics
+Authur;Hancock;Chrysler	1993	Spatial orientation in Real and Virtual Worlds	Proc. HFES
+Avraamides;Klatzky;Loomis;Golledge	2004	use of cognitive versus perceptual heading during imagined locomotion depends on the response mode	Psychological Science
+Aytes	1996	Comparing collaborative drawing tools and whiteboards: An analysis of the group process	Computer Supported Cooperative Work
+Badler;Hollick;Granieri	1993	Real-time control of a virtual human using minimal sensors	Presence: Teleoperators and Virtual Environments
+Badler;Palmer;Bindiganavale	1999	Animation control for real-time virtual humans	Communications of the ACM
+Bailenson;Blascovich;Beall;Loomis	2001	Equilibrium theory revisited: Mutual gaze and personal space in virtual environments	Presence: Teleoperators and Virtual Environments
+Baird;Wagner;Noma	1982	Impossible cognitive spaces	Geographical Analysis
+Bajura;Fuchs;Ohbuchi	1992	Merging virtual objects with the real world: Seeing ultrasound imagery within the patient	Proc. ACM SIGGRAPH
+Bakker;Werkhoven;Passenier	1999	The effects of proprioceptive and visual feedback on geographical orientation in virtual environments	Presence: Teleoperators and Virtual Environments
+Bakker;Werkhoven;Passenier	2001	Calibrating visual path integration in VEs	Presence: Teleoperators and Virtual Environments
+Balakrishnan;Hinckley	2000	Symmetric bimanual interaction	Proc. ACM CHI
+Balakrishnan;Kurtenbach	1999	Exploring bimanual camera control and object manipulation in 3D graphics interfaces	Proc. ACM CHI
+Balcisoy;Thalmann	1998	Hybrid approaches to interactions between real and virtual humans in mixed environments	Proc. EGVE
+Banks	1992	Interactive Manipulation and Display of Two-Dimensional Surfaces in Four- Dimensional Space	Proc. ACM I3D
+Banon	1990	Implementation and extension of the ladder algorithm	Proc. IEEE International Conference on Robotics and Automation
+Bardram	2000	Temporal coordination: On time and coordination of collaborative activities at a surgical department	Computer Supported Cooperative Work
+Bardy;Oullier;Bootsma;Stoffregen	2002	Dynamics of human postural transitions	Journal of Experimental Psychology: Human Perception and Performance
