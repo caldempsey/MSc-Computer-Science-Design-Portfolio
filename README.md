@@ -10,5 +10,4 @@ Submitted "11/08/2016".
 
 Any further questions please contact me directly.
 
-E-mail, callum.leach@hotmail.co.uk
-Mobile no. 07972729230.
+E-mail, callum.leach@hotmail.co.uk.
