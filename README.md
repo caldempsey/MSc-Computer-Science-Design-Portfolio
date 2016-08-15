@@ -7,7 +7,7 @@ This submission contains all work mentioned in the application personal statemen
 
 This means has been chosen as the application portal only accepted HTML files. 
 
-Submitted and timestamped "11/08/2016" (at same point of reciept of submission). For more information on this hover over the timestamp for each file and folder.
+Submitted and timestamped "11/08/2016" (at reciept of application submission). For more information on this hover over the timestamp for each file and folder.
 
 Any further questions or for validation please contact me directly.
 
